@@ -12,7 +12,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="HTML"
  title="HTML"
- width="30px"
+ width="40px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -21,7 +21,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="CSS"
  title="CSS"
- width="30px"
+ width="40px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -31,7 +31,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="JavaScript"
  title="JavaScript"
- width="30px"
+ width="40px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
  />
@@ -41,7 +41,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="Python"
  title="Python"
- width="30px"
+ width="40px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -50,7 +50,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="Git"
  title="Git"
- width="30px"
+ width="40px"
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -60,7 +60,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="GitHub"
  title="GitHub"
- width="30px"
+ width="40px"
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
@@ -69,7 +69,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="Sass"
  title="Sass"
- width="30px"
+ width="40px"
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
  />
@@ -79,7 +79,7 @@ Nos meus aprendizados, desenvolvi projetos web com o uso das linguagens de progr
  align="left"
  alt="WordPress"
  title="WordPress"
- width="30px"
+ width="40px"
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
  />
